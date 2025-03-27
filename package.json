@@ -1,6 +1,6 @@
 {
   "name": "iehr-mso-demo",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "private": true,
   "type": "module",
   "scripts": {
@@ -23,10 +23,10 @@
     "@mantine/core": "7.17.2",
     "@mantine/hooks": "7.17.2",
     "@mantine/notifications": "7.17.2",
-    "@iehr/core": "5.0.4",
-    "@iehr/eslint-config": "5.0.4",
-    "@iehr/fhirtypes": "5.0.4",
-    "@iehr/react": "5.0.4",
+    "@iehr/core": "5.0.5",
+    "@iehr/eslint-config": "5.0.5",
+    "@iehr/fhirtypes": "5.0.5",
+    "@iehr/react": "5.0.5",
     "@tabler/icons-react": "3.17.0",
     "@types/node": "20.17.24",
     "@types/react": "18.3.18",
